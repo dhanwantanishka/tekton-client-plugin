@@ -1,7 +1,8 @@
 # Documentation
 
 This directory organizes the Jenkins Tekton Client Plugin documentation
-using the Divio documentation model.
+using the Divio documentation model(https://documentation.divio.com/).
+
 
 ## Why Divio
 
